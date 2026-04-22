@@ -1,0 +1,5 @@
+channels:
+  - conda-forge
+dependencies:
+  - sage
+  - python=3.11
